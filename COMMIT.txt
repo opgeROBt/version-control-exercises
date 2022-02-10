@@ -1,5 +1,4 @@
 commit...ment 
 het is eindelijk gelukt
- even een error creeeren
-
-
+Heuuu tijd om te pullen
+pull ging niet lekkah
