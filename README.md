@@ -1,2 +1,4 @@
 # version-control-exercises
-Git training for dPrep,  toch even checken 
+Git training for dPrep
+
+$ git gud or git home 
